@@ -1,1 +1,1 @@
-Calculates the quasi-star structures described in Coughlin & Begelman (2024) (https://ui.adsabs.harvard.edu/abs/2024ApJ...970..158C/abstract)
+Calculates the quasi-star structures described in Coughlin & Begelman (2024) (https://ui.adsabs.harvard.edu/abs/2024ApJ...970..158C/abstract). You are (of course) free to use, modify, extend, etc. this notebook; I only ask that the research that results from such usage cite the paper for which the code was originally developed: Coughlin & Begelman (2024) (https://ui.adsabs.harvard.edu/abs/2024ApJ...970..158C/abstract)
